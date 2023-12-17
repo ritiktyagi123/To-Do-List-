@@ -15,7 +15,7 @@ This is a simple Todo List app built with React and Ant Design.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-list-app.git
+   git clone https://github.com/ritiktyagi123/To-Do-List-.git
 
 
 
